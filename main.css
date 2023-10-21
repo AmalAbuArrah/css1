@@ -1,0 +1,16 @@
+.services{
+    text-align: center;
+}
+
+
+
+.service{
+    float: left;
+    width: 20%;
+    height: 20%;
+    background: tomato;
+}
+
+.clearfix{
+    clear: left;
+}
